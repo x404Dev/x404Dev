@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x404dev" alt="x404dev" /></a> </p>
 
-- 🔭 I’m currently working on [Discadia](https://discadia.com/)
-
 - 🌱 I’m currently learning **Python & Django**
 
 - 👨‍💻 All of my projects are available at [x404.io](x404.io)
